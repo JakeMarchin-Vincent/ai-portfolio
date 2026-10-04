@@ -1,0 +1,11 @@
+# Local preparation is not public portfolio content.
+archive/
+.local/
+.private/
+CURRENT-STATE.md
+SYSTEM.md
+drafts/
+.env
+.env.*
+__pycache__/
+*.pyc
