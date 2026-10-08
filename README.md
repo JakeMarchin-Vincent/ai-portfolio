@@ -8,13 +8,14 @@ A fresh home for my AI work: reusable skills, an original-agent project, useful 
 
 | Work | What it is | Status |
 | --- | --- | --- |
+| [Australian Business Finder](PROJECTS.md#australian-business-finder) | Finds source-linked Australian business candidates without claiming independent verification. | Public beta; [install and guide](https://github.com/JakeMarchin-Vincent/aus-business-finder) |
 | [MVgrillz](PROJECTS.md#mvgrillz) | Works through planning questions and returns a proposed direction for a person to review. | Private working skill |
 | [MVskill-ops](PROJECTS.md#mvskill-ops) | Helps research, create, test and improve reusable agent skills. | Private working skill |
 | [hermgainz](PROJECTS.md#hermgainz) | Standalone fitness-coaching skill with adaptive guidance and follow-up. | Development candidate |
 | [Our own agent](PROJECTS.md#our-own-agent) | An original agent project, starting with one useful workflow. | Direction established; first workflow not selected |
 | [Research and experiments](PROJECTS.md#research-and-experiments) | Useful questions, comparisons, findings and lessons from the AI Research Engineer Lab. | Research in progress; no new findings claimed here |
 
-The skills above are being developed; this page is not a download catalog or a claim that they are publicly released.
+Australian Business Finder is a public beta. The other listed skills are still in development; this page is not a download catalog for them.
 
 ## How it connects
 
