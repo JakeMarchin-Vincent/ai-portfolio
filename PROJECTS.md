@@ -1,5 +1,19 @@
 # Selected work and current direction
 
+## Australian Business Finder
+
+**Type:** publicly installable Australian business-discovery skill
+
+**Status:** public beta; [source and guide](https://github.com/JakeMarchin-Vincent/aus-business-finder)
+
+Give it a business type and an Australian place. It finds candidates and links the businesses’ own pages, separating an advertised service area from a published address. It does not independently certify that a business is trading, has a shop open, or is available; it does not contact anyone.
+
+For example, [an Adelaide refrigeration-repair search](https://github.com/JakeMarchin-Vincent/aus-business-finder#example-from-a-local-test) returned three candidates whose pages advertised that service to Adelaide. Earlier tests caught overconfident physical-shop and address claims, so the release deliberately says **sourced candidate**, not verified business. [Evidence and limits](https://github.com/JakeMarchin-Vincent/aus-business-finder/blob/main/EVIDENCE.md) explain what was tried and what remains unproven.
+
+Install in Hermes: `hermes skills install JakeMarchin-Vincent/aus-business-finder/skills/aus-business-finder-mv`. The public package was installed in a clean, isolated Hermes home; a live model run in that credential-free home was not performed. Hermes and the hosted model supply the runtime and inference; the Australian search procedure and evaluation are the authored contribution.
+
+A maintained business dataset and approved agent-to-business actions are **future possibilities**, not features of this release.
+
 ## MVgrillz
 
 **Type:** reusable planning skill
